@@ -1,0 +1,14 @@
+table{
+    text-align:right;
+}
+th{
+    width:30px;
+    font-weight:bold;
+}
+.fontbold{
+    font-weight:bold;
+}
+
+.backgreen{
+    background-color:lightgreen;
+}
